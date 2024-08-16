@@ -1,0 +1,15 @@
+.gradient-header {
+    background: linear-gradient(90deg, #FF0000, #000000); 
+  }
+  
+  .btn-gradient {
+    background: linear-gradient(90deg, #FF0000, #000000); 
+    border: none; 
+    color: white; 
+  }
+  
+  .btn-gradient:hover {
+    background: linear-gradient(90deg, #FF6F61, #6B5B95); 
+    color: white;
+  }
+  
