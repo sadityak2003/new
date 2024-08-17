@@ -1,4 +1,9 @@
 {
+  
+  "dependencies": {
+    "build": "^0.1.4",
+    "create-react-app": "^5.0.1"
+  },
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
